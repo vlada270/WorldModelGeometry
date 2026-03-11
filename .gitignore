@@ -36,3 +36,5 @@ Thumbs.db
 data/
 data/
 outputs/
+__pycache__/
+*.pyc
