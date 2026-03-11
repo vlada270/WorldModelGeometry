@@ -34,3 +34,5 @@ Thumbs.db
 *.tmp
 *.logdata/
 data/
+data/
+outputs/
