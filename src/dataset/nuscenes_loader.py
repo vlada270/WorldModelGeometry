@@ -2,12 +2,11 @@ from nuscenes.nuscenes import NuScenes
 
 
 class NuScenesLoader:
-
     def __init__(self, dataroot, version="v1.0-mini", verbose=True):
         self.nusc = NuScenes(
             version=version,
             dataroot=dataroot,
-            verbose=verbose
+            verbose=verbose,
         )
 
     def get_scene_names(self):
