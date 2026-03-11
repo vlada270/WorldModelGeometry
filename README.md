@@ -9,8 +9,4 @@ data/nuscenes/
 
 Expected structure:
 
-data/nuscenes/
-├── samples/
-├── sweeps/
-├── maps/
-└── v1.0-mini/
+/data/v1.0-mini
