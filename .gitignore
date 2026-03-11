@@ -10,7 +10,6 @@ env/
 # data/v1.0-mini/
 
 # Outputs and logs
-outputs/
 logs/
 metrics/
 
