@@ -1,0 +1,35 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Data directories (large files) - commented out to include data
+# data/raw/
+# data/processed/
+# data/generated/
+# data/v1.0-mini/
+
+# Outputs and logs
+outputs/
+logs/
+metrics/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
