@@ -1,0 +1,3188 @@
+[
+  {
+    "token": "d15155fecf2f440c97bb0781777e18d4",
+    "instance_token": "6dd2cbf4c24b4caeb625035869bca7b5",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      373.256,
+      1130.419,
+      0.695
+    ],
+    "size": [
+      0.621,
+      0.669,
+      1.642
+    ],
+    "rotation": [
+      0.9831098797903927,
+      0.0,
+      0.0,
+      -0.18301629506281616
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "1"
+  },
+  {
+    "token": "637915e12be44a49848d4e7860455725",
+    "instance_token": "48d58b69b40149aeb2e64aa4b1a9192f",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      377.136,
+      1149.555,
+      0.932
+    ],
+    "size": [
+      0.775,
+      0.769,
+      1.711
+    ],
+    "rotation": [
+      -0.5527590208259255,
+      0.0,
+      0.0,
+      0.8333411455673865
+    ],
+    "velocity": [
+      -0.5297721180702505,
+      -1.0395348575804413
+    ],
+    "num_lidar_pts": 4,
+    "visibility": "3"
+  },
+  {
+    "token": "73bd17c0159441e0b019e0f103158aef",
+    "instance_token": "bd26c2cdb22d4bb1834e808c89128898",
+    "category": "vehicle.car",
+    "translation": [
+      353.755,
+      1132.441,
+      0.705
+    ],
+    "size": [
+      2.011,
+      4.633,
+      1.573
+    ],
+    "rotation": [
+      0.9797276292877292,
+      0.0,
+      0.0,
+      -0.20033415188191459
+    ],
+    "velocity": [
+      0.04192441222137153,
+      0.010481103055315803
+    ],
+    "num_lidar_pts": 8,
+    "visibility": "3"
+  },
+  {
+    "token": "0e8c326ef0104484b6b59a2d20d28070",
+    "instance_token": "6e04e175f20d402f8cbbdf701fe99d92",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      377.879,
+      1162.829,
+      1.363
+    ],
+    "size": [
+      0.752,
+      0.819,
+      1.637
+    ],
+    "rotation": [
+      0.8444541532778473,
+      0.0,
+      0.0,
+      0.5356278400268174
+    ],
+    "velocity": [
+      0.6126681149625841,
+      1.2653549870455043
+    ],
+    "num_lidar_pts": 5,
+    "visibility": "4"
+  },
+  {
+    "token": "e5adc61e5f88472fbc1869c621ecf258",
+    "instance_token": "4a5a657f59914516bade8551072e5ab0",
+    "category": "movable_object.trafficcone",
+    "translation": [
+      410.188,
+      1196.874,
+      0.756
+    ],
+    "size": [
+      0.427,
+      0.359,
+      0.794
+    ],
+    "rotation": [
+      -0.5295121693414384,
+      0.0,
+      0.0,
+      0.8483023414557594
+    ],
+    "velocity": [
+      0.03998648320127115,
+      0.02908107869198384
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "1"
+  },
+  {
+    "token": "c3c6edc917294ad898daa1cb31158d08",
+    "instance_token": "f4b2632a2f9947da9f7959a3bd0e322c",
+    "category": "vehicle.bicycle",
+    "translation": [
+      372.471,
+      1129.253,
+      1.022
+    ],
+    "size": [
+      0.689,
+      1.77,
+      1.709
+    ],
+    "rotation": [
+      0.994910649043305,
+      0.0,
+      0.0,
+      -0.10076110569177861
+    ],
+    "velocity": [
+      0.04001875712044441,
+      -0.07146206628650015
+    ],
+    "num_lidar_pts": 3,
+    "visibility": "2"
+  },
+  {
+    "token": "2758c490abf84cad93d8e474cc2895bd",
+    "instance_token": "c08be936e0394352b11760ede982d6fd",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      376.943,
+      1147.262,
+      0.958
+    ],
+    "size": [
+      0.661,
+      0.703,
+      1.839
+    ],
+    "rotation": [
+      -0.5433209829866904,
+      0.0,
+      0.0,
+      0.8395250499219047
+    ],
+    "velocity": [
+      -0.5326306007217495,
+      -1.102421475912336
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "3"
+  },
+  {
+    "token": "e70388ac6bf44c2fb99cd782ca0cad8d",
+    "instance_token": "1bc410ff237c4c48b9b7b094a9eaeb4d",
+    "category": "human.pedestrian.construction_worker",
+    "translation": [
+      392.82,
+      1113.276,
+      1.134
+    ],
+    "size": [
+      0.626,
+      0.687,
+      1.766
+    ],
+    "rotation": [
+      0.769928849160107,
+      0.0,
+      0.0,
+      -0.6381297416912906
+    ],
+    "velocity": [
+      0.03239613671651929,
+      0.002858482651607326
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "5667035a04624968b3ea52f9d0e2294b",
+    "instance_token": "291e6cccbc254f2ab4eadfe98331dfec",
+    "category": "vehicle.truck",
+    "translation": [
+      411.672,
+      1092.092,
+      2.172
+    ],
+    "size": [
+      2.508,
+      6.452,
+      3.236
+    ],
+    "rotation": [
+      0.2020779797531598,
+      0.0,
+      0.0,
+      0.9793694349421375
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "2"
+  },
+  {
+    "token": "965f44a01ec44ce5a79186d12098f33d",
+    "instance_token": "d7cd73e84d444b98a1923e1bcf433064",
+    "category": "vehicle.motorcycle",
+    "translation": [
+      355.884,
+      1124.645,
+      0.979
+    ],
+    "size": [
+      1.169,
+      2.059,
+      1.931
+    ],
+    "rotation": [
+      0.9820575882257031,
+      0.0,
+      0.0,
+      -0.1885812647330467
+    ],
+    "velocity": [
+      -0.014019011530310242,
+      0.006008147798558022
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "2"
+  },
+  {
+    "token": "5c0250d15bfe4fb9af5da4709552334f",
+    "instance_token": "c4041d3882c344338031b18ef5484631",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      388.276,
+      1113.161,
+      1.043
+    ],
+    "size": [
+      0.7,
+      0.913,
+      1.76
+    ],
+    "rotation": [
+      -0.5011936089243634,
+      0.0,
+      0.0,
+      0.8653351757402286
+    ],
+    "velocity": [
+      -0.6898471465519198,
+      -1.0052330657628865
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "3"
+  },
+  {
+    "token": "46a5013493b84a4890ac3a0f02c77083",
+    "instance_token": "fdd3fe14d1c044b9a9f6c24383c6207c",
+    "category": "vehicle.motorcycle",
+    "translation": [
+      409.182,
+      1116.958,
+      1.061
+    ],
+    "size": [
+      0.844,
+      2.229,
+      1.336
+    ],
+    "rotation": [
+      0.45692716295036706,
+      0.0,
+      0.0,
+      0.8895041134014663
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "4"
+  },
+  {
+    "token": "64e59077085742658351eeca1c59bbf7",
+    "instance_token": "47bccbb74b1343d58f5c593240d567d7",
+    "category": "movable_object.barrier",
+    "translation": [
+      392.078,
+      1105.99,
+      0.751
+    ],
+    "size": [
+      2.068,
+      0.616,
+      1.169
+    ],
+    "rotation": [
+      -0.5448146738173387,
+      0.0,
+      0.0,
+      0.8385564806220908
+    ],
+    "velocity": [
+      0.03144330916605573,
+      -0.02191503366109516
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "c9fd2b2671664dee9248b5294506ff58",
+    "instance_token": "918b55a1bf3e4fe08bf234395a06521c",
+    "category": "movable_object.barrier",
+    "translation": [
+      364.615,
+      1104.564,
+      0.513
+    ],
+    "size": [
+      2.143,
+      0.699,
+      1.109
+    ],
+    "rotation": [
+      -0.4962771141511139,
+      0.0,
+      0.0,
+      0.8681641699412861
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "130a94f3c5e945d6b69c47e87b13488e",
+    "instance_token": "99094aeb2f9d4efcbbc66423b5d84e56",
+    "category": "movable_object.barrier",
+    "translation": [
+      351.083,
+      1112.973,
+      1.049
+    ],
+    "size": [
+      2.192,
+      0.668,
+      1.132
+    ],
+    "rotation": [
+      -0.3503872029209833,
+      0.0,
+      0.0,
+      0.9366049370087741
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "b38b98f885854d84af1fe6ce85edc5b3",
+    "instance_token": "bbd6c47a20e34276bc6f2cfbc6ba6205",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      392.118,
+      1122.379,
+      0.713
+    ],
+    "size": [
+      0.648,
+      0.709,
+      1.609
+    ],
+    "rotation": [
+      0.1592707661767004,
+      0.0,
+      0.0,
+      0.9872349381183219
+    ],
+    "velocity": [
+      -0.8156203832160885,
+      0.32205571206426575
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "4"
+  },
+  {
+    "token": "370e713cded64118a649352530785c7d",
+    "instance_token": "03e81d6b45c34d56bc1a886919722f7f",
+    "category": "movable_object.barrier",
+    "translation": [
+      394.842,
+      1158.711,
+      0.73
+    ],
+    "size": [
+      1.977,
+      0.703,
+      1.149
+    ],
+    "rotation": [
+      -0.9781476007339125,
+      0.0,
+      0.0,
+      0.20791169081725672
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 183,
+    "visibility": "4"
+  },
+  {
+    "token": "d9cc334584924390aeba095f1906d7ff",
+    "instance_token": "3c7d5216d6bd4e1ba7a982c7274214b1",
+    "category": "movable_object.barrier",
+    "translation": [
+      408.524,
+      1190.723,
+      1.016
+    ],
+    "size": [
+      1.91,
+      0.555,
+      1.055
+    ],
+    "rotation": [
+      -0.9794504753332635,
+      0.0,
+      0.0,
+      0.20168481938272953
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 3,
+    "visibility": "4"
+  },
+  {
+    "token": "25b4e73204e048bf9674f340b1b9006e",
+    "instance_token": "91f0f127e46a49829700247cf534d9fd",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      413.125,
+      1194.303,
+      1.401
+    ],
+    "size": [
+      1.019,
+      0.915,
+      1.67
+    ],
+    "rotation": [
+      0.08020762286245356,
+      0.0,
+      0.0,
+      0.9967781785506514
+    ],
+    "velocity": [
+      -1.1205251993716854,
+      0.010481103055315803
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "3"
+  },
+  {
+    "token": "fdda8a91688144468d99a6ab25818d49",
+    "instance_token": "3843d35144d84c02b387678f9bc7f2ed",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      422.308,
+      1162.081,
+      1.159
+    ],
+    "size": [
+      0.934,
+      0.891,
+      1.835
+    ],
+    "rotation": [
+      -0.5949490489525194,
+      0.0,
+      0.0,
+      0.8037634161558317
+    ],
+    "velocity": [
+      -0.4001875712041733,
+      -1.4835524961068591
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "2"
+  },
+  {
+    "token": "d40c38dfd97548dd8e5fc3778ec22c21",
+    "instance_token": "f138c230c29a4cb3b7b50155babe4e90",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      360.073,
+      1142.316,
+      0.856
+    ],
+    "size": [
+      0.8,
+      0.908,
+      1.835
+    ],
+    "rotation": [
+      0.9831737046330231,
+      0.0,
+      0.0,
+      -0.18267311383500573
+    ],
+    "velocity": [
+      1.0900347177560932,
+      -0.5955172190538067
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "3"
+  },
+  {
+    "token": "89341a93e2504047bf4f51a917e2124c",
+    "instance_token": "be2c3211bef04f5b8d422ced129735d3",
+    "category": "movable_object.barrier",
+    "translation": [
+      394.05,
+      1156.846,
+      0.691
+    ],
+    "size": [
+      1.964,
+      0.694,
+      1.131
+    ],
+    "rotation": [
+      -0.9816538158404828,
+      0.0,
+      0.0,
+      0.1906719325066471
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 191,
+    "visibility": "4"
+  },
+  {
+    "token": "fe33c018573e4abda3ff8de0566ee800",
+    "instance_token": "bc38961ca0ac4b14ab90e547ba79fbb6",
+    "category": "vehicle.car",
+    "translation": [
+      389.29,
+      1139.46,
+      0.941
+    ],
+    "size": [
+      1.708,
+      4.01,
+      1.631
+    ],
+    "rotation": [
+      -0.5443682117180475,
+      0.0,
+      0.0,
+      0.8388463804957943
+    ],
+    "velocity": [
+      -2.2334277783393914,
+      -5.265325043986202
+    ],
+    "num_lidar_pts": 30,
+    "visibility": "4"
+  },
+  {
+    "token": "0d97e27692a84767919d2c1d903df860",
+    "instance_token": "59523f6a56b948b2b4f069be3ab8926d",
+    "category": "movable_object.barrier",
+    "translation": [
+      393.894,
+      1158.918,
+      0.666
+    ],
+    "size": [
+      2.097,
+      0.732,
+      1.082
+    ],
+    "rotation": [
+      -0.9783702049344676,
+      0.0,
+      0.0,
+      0.20686164965137405
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 4,
+    "visibility": "1"
+  },
+  {
+    "token": "f21266d873a242e9acbf52a0034b9289",
+    "instance_token": "81714918a9f54bda9e2b52dd7ce362e5",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      371.763,
+      1129.172,
+      0.833
+    ],
+    "size": [
+      0.79,
+      0.741,
+      1.725
+    ],
+    "rotation": [
+      0.988898172400413,
+      0.0,
+      0.0,
+      -0.14859476647285738
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "04db4598a1b04ce9809cc2fe681bc816",
+    "instance_token": "daf07d30c8df4426aca25114b6b00cce",
+    "category": "movable_object.barrier",
+    "translation": [
+      352.368,
+      1111.003,
+      0.7
+    ],
+    "size": [
+      2.259,
+      0.712,
+      1.215
+    ],
+    "rotation": [
+      -0.18727746983223983,
+      0.0,
+      0.0,
+      0.982307054486139
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 4,
+    "visibility": "3"
+  },
+  {
+    "token": "54a2684391424e44b2d7e5ce3b56d02e",
+    "instance_token": "e91afa15647c4c4994f19aeb302c7179",
+    "category": "vehicle.truck",
+    "translation": [
+      410.003,
+      1163.804,
+      1.823
+    ],
+    "size": [
+      2.877,
+      10.201,
+      3.595
+    ],
+    "rotation": [
+      -0.5828819500503033,
+      0.0,
+      0.0,
+      0.812556848660791
+    ],
+    "velocity": [
+      0.06193379078159374,
+      -0.020962206110631605
+    ],
+    "num_lidar_pts": 685,
+    "visibility": "4"
+  },
+  {
+    "token": "b0b353dfec1a4ff6932b99f1a6875f8f",
+    "instance_token": "56a71c208ac6472f90b6a82529a6ce61",
+    "category": "vehicle.car",
+    "translation": [
+      392.077,
+      1104.169,
+      1.271
+    ],
+    "size": [
+      2.135,
+      4.956,
+      2.17
+    ],
+    "rotation": [
+      0.2020779797531598,
+      0.0,
+      0.0,
+      0.9793694349421375
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "d55444e67ec04d3ea60cf92f4e1fcf89",
+    "instance_token": "863043f8c9204bf888f0ec77aa27ddef",
+    "category": "movable_object.trafficcone",
+    "translation": [
+      415.24,
+      1095.857,
+      0.812
+    ],
+    "size": [
+      0.435,
+      0.451,
+      0.706
+    ],
+    "rotation": [
+      0.19339535632542243,
+      0.0,
+      0.0,
+      0.9811209080188654
+    ],
+    "velocity": [
+      -0.20828245702157328,
+      0.16822813836372288
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "1"
+  },
+  {
+    "token": "3b0de639f3b74d64abf61ea54c2598ca",
+    "instance_token": "03d01c950f044575b69137f069345db0",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      389.569,
+      1115.975,
+      1.013
+    ],
+    "size": [
+      0.767,
+      0.951,
+      1.835
+    ],
+    "rotation": [
+      -0.5159204647917992,
+      0.0,
+      0.0,
+      0.856636488838185
+    ],
+    "velocity": [
+      -0.4973759813537312,
+      -0.9737897565969391
+    ],
+    "num_lidar_pts": 4,
+    "visibility": "4"
+  },
+  {
+    "token": "39b0943fbf264cb392d21e36361aefa4",
+    "instance_token": "8705ebefeb7746468d837fb138a1a121",
+    "category": "movable_object.barrier",
+    "translation": [
+      387.52,
+      1143.568,
+      0.708
+    ],
+    "size": [
+      1.967,
+      0.704,
+      0.962
+    ],
+    "rotation": [
+      -0.983703533987637,
+      0.0,
+      0.0,
+      0.1797981012698239
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 27,
+    "visibility": "4"
+  },
+  {
+    "token": "6f047b0e2dd84a6b89c5d34593a7a9d0",
+    "instance_token": "ce995b52d7204ee8b4a6ed0b2b0ebd3e",
+    "category": "movable_object.barrier",
+    "translation": [
+      359.898,
+      1112.295,
+      0.665
+    ],
+    "size": [
+      2.001,
+      0.626,
+      1.077
+    ],
+    "rotation": [
+      -0.5564986466765924,
+      0.0,
+      0.0,
+      0.8308485158241068
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "1"
+  },
+  {
+    "token": "c38bde1a312340c0a9c740cdb4977280",
+    "instance_token": "16dc951205cb4f8299f5915313436d69",
+    "category": "movable_object.barrier",
+    "translation": [
+      392.526,
+      1153.183,
+      0.645
+    ],
+    "size": [
+      2.06,
+      0.759,
+      1.1
+    ],
+    "rotation": [
+      -0.9781766211472951,
+      0.0,
+      0.0,
+      0.20777511362254428
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 179,
+    "visibility": "4"
+  },
+  {
+    "token": "8ec93dca5f0d4fe0b5d9f65cc0e1e2b7",
+    "instance_token": "d29b5510716546cc91e693c684978ca7",
+    "category": "movable_object.trafficcone",
+    "translation": [
+      360.8,
+      1124.19,
+      0.582
+    ],
+    "size": [
+      0.418,
+      0.439,
+      0.761
+    ],
+    "rotation": [
+      0.9794293495664603,
+      0.0,
+      0.0,
+      -0.20178738614645994
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "f8f80f6877764ae7b50f8c9ba861c8fc",
+    "instance_token": "038a951ededf4efeb34a4ab28508d9dc",
+    "category": "movable_object.barrier",
+    "translation": [
+      396.227,
+      1164.778,
+      0.628
+    ],
+    "size": [
+      1.993,
+      0.744,
+      1.245
+    ],
+    "rotation": [
+      -0.9819653127713602,
+      0.0,
+      0.0,
+      0.18906116606496584
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 15,
+    "visibility": "1"
+  },
+  {
+    "token": "b5d4e0c8d073441d9c752e06e7c8a64f",
+    "instance_token": "7367cda3f9cf44d9a761d72c81edeaba",
+    "category": "movable_object.barrier",
+    "translation": [
+      391.572,
+      1153.309,
+      0.624
+    ],
+    "size": [
+      2.008,
+      0.731,
+      1.147
+    ],
+    "rotation": [
+      -0.9818016092056508,
+      0.0,
+      0.0,
+      0.18990945253250172
+    ],
+    "velocity": [
+      0.001905655100927119,
+      0.006669792853461564
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "1"
+  },
+  {
+    "token": "7b89c7799a834c8f9c9f10dc650d853b",
+    "instance_token": "2ce122b054384340a99b146634f3c4da",
+    "category": "movable_object.trafficcone",
+    "translation": [
+      401.346,
+      1173.357,
+      0.757
+    ],
+    "size": [
+      0.476,
+      0.461,
+      0.72
+    ],
+    "rotation": [
+      0.8324089836811801,
+      0.0,
+      0.0,
+      -0.5541617849390779
+    ],
+    "velocity": [
+      0.013339585706814804,
+      -0.03334896426709117
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "4"
+  },
+  {
+    "token": "7d359b5d71f84ae88b254c497900c3d4",
+    "instance_token": "eb3da8843f614a90a48ddb6ee392c0c0",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      402.227,
+      1120.96,
+      0.927
+    ],
+    "size": [
+      0.69,
+      0.761,
+      1.73
+    ],
+    "rotation": [
+      0.8002030858163571,
+      0.0,
+      0.0,
+      0.5997291233965379
+    ],
+    "velocity": [
+      -0.03334896426703701,
+      -0.003811310201854238
+    ],
+    "num_lidar_pts": 6,
+    "visibility": "4"
+  },
+  {
+    "token": "6c0d1e92b387465d832dbe527e22fbdd",
+    "instance_token": "100427ca2fab4537b068582d5525495a",
+    "category": "movable_object.barrier",
+    "translation": [
+      399.012,
+      1167.878,
+      0.847
+    ],
+    "size": [
+      1.969,
+      0.716,
+      1.092
+    ],
+    "rotation": [
+      -0.9805855785616683,
+      0.0,
+      0.0,
+      0.19609161919082194
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 38,
+    "visibility": "4"
+  },
+  {
+    "token": "38fe70a1ed07404fa86f3262074a004b",
+    "instance_token": "b1aa169935a24be893c74d0958c42a43",
+    "category": "movable_object.barrier",
+    "translation": [
+      390.579,
+      1107.344,
+      0.803
+    ],
+    "size": [
+      1.877,
+      0.621,
+      1.203
+    ],
+    "rotation": [
+      -0.2766438353917426,
+      0.0,
+      0.0,
+      0.9609725221564592
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "1"
+  },
+  {
+    "token": "470f97c9144443e8bcbbdd076478ccd7",
+    "instance_token": "070412f6a4f944e6a0a9e01ac1ea1fee",
+    "category": "human.pedestrian.construction_worker",
+    "translation": [
+      396.244,
+      1105.943,
+      1.323
+    ],
+    "size": [
+      0.703,
+      0.851,
+      1.76
+    ],
+    "rotation": [
+      0.8700384017482865,
+      0.0,
+      0.0,
+      0.49298395459009325
+    ],
+    "velocity": [
+      0.09718841014961203,
+      0.053358342827259216
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "2"
+  },
+  {
+    "token": "93febe1c54dd46e89c33d6740eaceebb",
+    "instance_token": "d16b36f8fa1045779f71dd1bbe0c0dbb",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      385.383,
+      1205.198,
+      2.132
+    ],
+    "size": [
+      0.842,
+      0.884,
+      1.749
+    ],
+    "rotation": [
+      0.862778509619437,
+      0.0,
+      0.0,
+      -0.5055820836806453
+    ],
+    "velocity": [
+      0.8433512820635021,
+      -1.3031958388780687
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "4"
+  },
+  {
+    "token": "50c2d28a57ed44908ad5930a0fc19254",
+    "instance_token": "3b54d4dd46f24f91a36799f2d0ed801e",
+    "category": "movable_object.barrier",
+    "translation": [
+      386.807,
+      1141.706,
+      0.723
+    ],
+    "size": [
+      1.99,
+      0.726,
+      0.921
+    ],
+    "rotation": [
+      -0.9815254718913233,
+      0.0,
+      0.0,
+      0.19133151342242333
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 18,
+    "visibility": "4"
+  },
+  {
+    "token": "eeea5bed42434187a49ce8713c41725a",
+    "instance_token": "221dd725c6654412a04c71ced8ad6d03",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      410.673,
+      1166.013,
+      2.495
+    ],
+    "size": [
+      0.708,
+      0.863,
+      1.616
+    ],
+    "rotation": [
+      0.8479694717221935,
+      0.0,
+      0.0,
+      -0.5300450688641335
+    ],
+    "velocity": [
+      0.04192441222137153,
+      -0.06860358363489281
+    ],
+    "num_lidar_pts": 7,
+    "visibility": "2"
+  },
+  {
+    "token": "df1fa1edd9ba4d629cbd6c8eef0599b6",
+    "instance_token": "37f12d00c86d4b5689326f7b98189b81",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      377.791,
+      1149.018,
+      0.88
+    ],
+    "size": [
+      0.734,
+      0.775,
+      1.821
+    ],
+    "rotation": [
+      -0.5435627263137347,
+      0.0,
+      0.0,
+      0.8393685499006858
+    ],
+    "velocity": [
+      -0.5250079803178244,
+      -1.1376760952803544
+    ],
+    "num_lidar_pts": 4,
+    "visibility": "3"
+  },
+  {
+    "token": "a0b2a9df43944c2b841661d7a7ff9a99",
+    "instance_token": "10b58854ec1f44a6b96785eb490d40e6",
+    "category": "movable_object.barrier",
+    "translation": [
+      397.032,
+      1166.701,
+      0.716
+    ],
+    "size": [
+      2.069,
+      0.712,
+      1.088
+    ],
+    "rotation": [
+      -0.978516182386297,
+      0.0,
+      0.0,
+      0.2061700288794352
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "1"
+  },
+  {
+    "token": "8788eaf7e13545d090be17ac868d18dc",
+    "instance_token": "1610b41e5fdc4a3f939033ca8d4fc700",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      374.931,
+      1143.94,
+      0.855
+    ],
+    "size": [
+      0.733,
+      0.746,
+      1.695
+    ],
+    "rotation": [
+      -0.43734336760300435,
+      0.0,
+      0.0,
+      0.8992946006808132
+    ],
+    "velocity": [
+      -0.7412998342781978,
+      -0.9423464474305584
+    ],
+    "num_lidar_pts": 7,
+    "visibility": "3"
+  },
+  {
+    "token": "1b691fe6ca12468192623d3187dfda3a",
+    "instance_token": "97535c43b47f4b4396b15a9b36e646c8",
+    "category": "movable_object.barrier",
+    "translation": [
+      385.402,
+      1138.023,
+      0.764
+    ],
+    "size": [
+      1.923,
+      0.696,
+      0.919
+    ],
+    "rotation": [
+      -0.9847151761443377,
+      0.0,
+      0.0,
+      0.1741723912422
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 7,
+    "visibility": "2"
+  },
+  {
+    "token": "7139e3ba01ad470fa9af7e65c4321a2c",
+    "instance_token": "59cfdb95669549b580058fc56d27b132",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      413.245,
+      1195.226,
+      1.319
+    ],
+    "size": [
+      0.913,
+      0.873,
+      1.697
+    ],
+    "rotation": [
+      0.08890298896107153,
+      0.0,
+      0.0,
+      0.9960402896237619
+    ],
+    "velocity": [
+      -1.2853643656057265,
+      0.2744143345397879
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "36788bb15fca4a3fab50996a39b83c89",
+    "instance_token": "2f5921c1c2ed4d6194ab1bfe9e538a8e",
+    "category": "movable_object.barrier",
+    "translation": [
+      390.073,
+      1149.573,
+      0.644
+    ],
+    "size": [
+      2.05,
+      0.693,
+      1.081
+    ],
+    "rotation": [
+      -0.9834214767877821,
+      0.0,
+      0.0,
+      0.18133449476737115
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 40,
+    "visibility": "3"
+  },
+  {
+    "token": "c13bd0c1685d4129806bf1462fc102b7",
+    "instance_token": "71603dd1a2ba4e9daf095535e38310ac",
+    "category": "human.pedestrian.construction_worker",
+    "translation": [
+      393.759,
+      1118.208,
+      1.053
+    ],
+    "size": [
+      0.775,
+      0.837,
+      1.746
+    ],
+    "rotation": [
+      -0.6022888370159521,
+      0.0,
+      0.0,
+      0.7982782452290503
+    ],
+    "velocity": [
+      0.00285848265144484,
+      0.009528275504852243
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "3804f4b1f9e8473392947869058c6ff0",
+    "instance_token": "c0741f8b4da3440e9686de5eb7363668",
+    "category": "movable_object.barrier",
+    "translation": [
+      391.734,
+      1151.279,
+      0.677
+    ],
+    "size": [
+      1.977,
+      0.764,
+      1.144
+    ],
+    "rotation": [
+      -0.9832803428586938,
+      0.0,
+      0.0,
+      0.18209823543266304
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 126,
+    "visibility": "4"
+  },
+  {
+    "token": "30f8b01e426048ffae630b9c08098675",
+    "instance_token": "e37421ad87d34227b87d6adeaf6b3f60",
+    "category": "movable_object.barrier",
+    "translation": [
+      394.022,
+      1105.101,
+      0.881
+    ],
+    "size": [
+      2.175,
+      0.644,
+      1.245
+    ],
+    "rotation": [
+      -0.5448146738173387,
+      0.0,
+      0.0,
+      0.8385564806220908
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "19d01590f1da4dbcab824b0c0343760f",
+    "instance_token": "37ae87b1176543ac9e5dce973219aa05",
+    "category": "movable_object.barrier",
+    "translation": [
+      361.875,
+      1111.448,
+      0.604
+    ],
+    "size": [
+      2.16,
+      0.685,
+      1.162
+    ],
+    "rotation": [
+      -0.5419135832512664,
+      0.0,
+      0.0,
+      0.8404342141344394
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "9ba617cbf3b6475dbc252f2b01a14e16",
+    "instance_token": "b061f2f4c7a74223ab8546a193d07bab",
+    "category": "movable_object.barrier",
+    "translation": [
+      396.326,
+      1104.747,
+      0.879
+    ],
+    "size": [
+      2.326,
+      0.638,
+      1.221
+    ],
+    "rotation": [
+      -0.7696113361662302,
+      0.0,
+      0.0,
+      0.6385126398470352
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "cfcf00ef738f4c8e95d918d3f899c755",
+    "instance_token": "01c083253f30417dbe374f84e8ba6c19",
+    "category": "movable_object.barrier",
+    "translation": [
+      386.07,
+      1139.83,
+      0.706
+    ],
+    "size": [
+      1.842,
+      0.677,
+      0.885
+    ],
+    "rotation": [
+      -0.9831577596527544,
+      0.0,
+      0.0,
+      0.18275891123164653
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 14,
+    "visibility": "4"
+  },
+  {
+    "token": "13b1a6e7bfac4d7eb6a1edf9bcb9ad82",
+    "instance_token": "22907d343d2940e099a353e3b364b04e",
+    "category": "vehicle.truck",
+    "translation": [
+      363.259,
+      1094.238,
+      1.247
+    ],
+    "size": [
+      2.287,
+      6.013,
+      2.598
+    ],
+    "rotation": [
+      0.8401361545702614,
+      0.0,
+      0.0,
+      0.5423755541909074
+    ],
+    "velocity": [
+      0.03604888679214502,
+      -0.01802444339612943
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "4"
+  },
+  {
+    "token": "eabca8e882744fe9b95595a81ea8499f",
+    "instance_token": "ac81888f5e9c4c9dae3461c741fc85d6",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      375.888,
+      1148.307,
+      0.897
+    ],
+    "size": [
+      0.777,
+      0.828,
+      1.734
+    ],
+    "rotation": [
+      -0.5435627263137347,
+      0.0,
+      0.0,
+      0.8393685499006858
+    ],
+    "velocity": [
+      -0.44211198342554486,
+      -0.928054034173605
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "2"
+  },
+  {
+    "token": "6695b1c572a14f93918f6bea3850fed3",
+    "instance_token": "ba2f459b88dc43d194d98ec3759bcd04",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      371.232,
+      1139.29,
+      0.758
+    ],
+    "size": [
+      0.698,
+      0.813,
+      1.656
+    ],
+    "rotation": [
+      -0.545092719719711,
+      0.0,
+      0.0,
+      0.8383757671286597
+    ],
+    "velocity": [
+      -0.4964231538032676,
+      -0.8918465872549065
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "4"
+  },
+  {
+    "token": "269d1ee1b38a4e31b2916270e0c28f4e",
+    "instance_token": "c6b004f9321f4069bc33dea838783ee9",
+    "category": "movable_object.trafficcone",
+    "translation": [
+      390.675,
+      1148.918,
+      0.566
+    ],
+    "size": [
+      0.473,
+      0.483,
+      0.733
+    ],
+    "rotation": [
+      0.9688041407132248,
+      0.0,
+      0.0,
+      -0.2478276355391184
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 4,
+    "visibility": "4"
+  },
+  {
+    "token": "acfb95a2a45d4c1c86eb7b916582cdee",
+    "instance_token": "dad63b6319f2479fab3a8f5f75d6049b",
+    "category": "movable_object.barrier",
+    "translation": [
+      389.869,
+      1109.236,
+      0.872
+    ],
+    "size": [
+      1.827,
+      0.619,
+      1.066
+    ],
+    "rotation": [
+      -0.06545537691154991,
+      0.0,
+      0.0,
+      0.9978554973709204
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "2"
+  },
+  {
+    "token": "df487a8b252e4cd3bb646923273529a4",
+    "instance_token": "26c307f5fc25450fab3f64b45bf5dc34",
+    "category": "movable_object.barrier",
+    "translation": [
+      392.346,
+      1155.119,
+      0.582
+    ],
+    "size": [
+      1.88,
+      0.723,
+      1.112
+    ],
+    "rotation": [
+      -0.9801381371238926,
+      0.0,
+      0.0,
+      0.1983159906697025
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 20,
+    "visibility": "1"
+  },
+  {
+    "token": "84ff661e471645a4ad77e894edcd8939",
+    "instance_token": "270f83c6aa8045cdaf422c3fa18309de",
+    "category": "vehicle.bus.rigid",
+    "translation": [
+      358.757,
+      1084.221,
+      1.582
+    ],
+    "size": [
+      3.523,
+      11.084,
+      3.32
+    ],
+    "rotation": [
+      0.8357546551238643,
+      0.0,
+      0.0,
+      0.5491030471949603
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "4"
+  },
+  {
+    "token": "2d9d1f425f674fa680e831fed5779a0c",
+    "instance_token": "fbbe278ba6f84676afea509a306518c1",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      387.253,
+      1113.89,
+      1.135
+    ],
+    "size": [
+      0.685,
+      1.002,
+      1.914
+    ],
+    "rotation": [
+      -0.5136984920407998,
+      0.0,
+      0.0,
+      0.8579707799657331
+    ],
+    "velocity": [
+      -0.2810841273933578,
+      -0.43448936302156554
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "2"
+  },
+  {
+    "token": "f4e1f22de2a2466b88383a561c0ff67e",
+    "instance_token": "e80c0cdf3a8b4d3ebcaf94f7a4f1bea3",
+    "category": "movable_object.trafficcone",
+    "translation": [
+      354.236,
+      1129.793,
+      0.395
+    ],
+    "size": [
+      0.452,
+      0.451,
+      0.775
+    ],
+    "rotation": [
+      0.9784062941939174,
+      0.0,
+      0.0,
+      -0.20669088872450422
+    ],
+    "velocity": [
+      -0.06383944588257502,
+      0.028584826514556728
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "4"
+  },
+  {
+    "token": "9cbfd06e4cef4ded9592287c5a78092a",
+    "instance_token": "32db4d3114344adb906e29cfe82d7f16",
+    "category": "movable_object.barrier",
+    "translation": [
+      402.12,
+      1110.006,
+      0.661
+    ],
+    "size": [
+      1.991,
+      0.59,
+      1.079
+    ],
+    "rotation": [
+      0.8402733881293034,
+      0.0,
+      0.0,
+      0.54216292127155
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "2"
+  },
+  {
+    "token": "e79f7b0ce64b4864927f116726448b95",
+    "instance_token": "00cfe5312e5e469bb97d7b64245a98e3",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      409.008,
+      1192.292,
+      1.4
+    ],
+    "size": [
+      0.793,
+      1.0,
+      1.604
+    ],
+    "rotation": [
+      0.9927269067795732,
+      0.0,
+      0.0,
+      -0.12038807480751809
+    ],
+    "velocity": [
+      1.460684634895192,
+      -0.3420650906244338
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "1"
+  },
+  {
+    "token": "dc53e1e37e344759b3c4acf027bd83d4",
+    "instance_token": "42641eb6adcb4f8f8def8ef129d9e843",
+    "category": "vehicle.car",
+    "translation": [
+      360.893,
+      1128.994,
+      0.872
+    ],
+    "size": [
+      1.939,
+      4.819,
+      1.736
+    ],
+    "rotation": [
+      0.9797276292877292,
+      0.0,
+      0.0,
+      -0.20033415188191459
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 3,
+    "visibility": "4"
+  },
+  {
+    "token": "7772ffc8e4d64f998777f6db30396f47",
+    "instance_token": "05739869b03543b4ae5e7b2b6ed47e6d",
+    "category": "movable_object.barrier",
+    "translation": [
+      400.519,
+      1171.691,
+      0.88
+    ],
+    "size": [
+      2.073,
+      0.633,
+      1.078
+    ],
+    "rotation": [
+      -0.9842851125369512,
+      0.0,
+      0.0,
+      0.17658657151131676
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 18,
+    "visibility": "4"
+  },
+  {
+    "token": "60b66b40d7ce4c9db31ea9e8ae625880",
+    "instance_token": "7c80918c0074444c87801c6123fbed80",
+    "category": "movable_object.barrier",
+    "translation": [
+      395.651,
+      1160.538,
+      0.712
+    ],
+    "size": [
+      1.945,
+      0.649,
+      1.11
+    ],
+    "rotation": [
+      -0.9762960071200447,
+      0.0,
+      0.0,
+      0.2164396139376007
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 145,
+    "visibility": "4"
+  },
+  {
+    "token": "b870dda8c70f4aa5808de66632757ed0",
+    "instance_token": "e3c5b72c12c34c85aac247734ad83bef",
+    "category": "vehicle.construction",
+    "translation": [
+      398.565,
+      1110.043,
+      1.788
+    ],
+    "size": [
+      3.016,
+      3.992,
+      2.916
+    ],
+    "rotation": [
+      0.2020779797531598,
+      0.0,
+      0.0,
+      0.9793694349421375
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "2"
+  },
+  {
+    "token": "ef9f7436a05c42a29c6781c9abce6818",
+    "instance_token": "9f6aafa40e69441483fb49b46070f22c",
+    "category": "movable_object.barrier",
+    "translation": [
+      398.222,
+      1166.03,
+      0.81
+    ],
+    "size": [
+      1.964,
+      0.72,
+      1.104
+    ],
+    "rotation": [
+      -0.9775668648807532,
+      0.0,
+      0.0,
+      0.2106253182483418
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 57,
+    "visibility": "4"
+  },
+  {
+    "token": "b020bbfdf57a4257a8bc08cda919cd28",
+    "instance_token": "4080c30aa7104d91ad005a50b18f6108",
+    "category": "vehicle.car",
+    "translation": [
+      350.988,
+      1126.399,
+      0.931
+    ],
+    "size": [
+      1.972,
+      4.698,
+      1.581
+    ],
+    "rotation": [
+      0.9820526508433024,
+      0.0,
+      0.0,
+      -0.1886069748753813
+    ],
+    "velocity": [
+      -0.11910344381076135,
+      0.04764137752447786
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "3"
+  },
+  {
+    "token": "b8a18d907c2544d29e44ccad9c96331f",
+    "instance_token": "b4db946778484c2195efa320571f53dc",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      388.506,
+      1117.598,
+      1.028
+    ],
+    "size": [
+      0.759,
+      0.837,
+      1.916
+    ],
+    "rotation": [
+      -0.5600463035213421,
+      0.0,
+      0.0,
+      0.8284613074320857
+    ],
+    "velocity": [
+      -0.3725555722400801,
+      -1.0319122371765161
+    ],
+    "num_lidar_pts": 5,
+    "visibility": "4"
+  },
+  {
+    "token": "a9be95f221524d96b12dbdf9151caf36",
+    "instance_token": "58ce00fe2eb547acaa7f792ff2b11742",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      374.481,
+      1144.383,
+      0.872
+    ],
+    "size": [
+      0.739,
+      0.771,
+      1.766
+    ],
+    "rotation": [
+      -0.4454010393402637,
+      0.0,
+      0.0,
+      0.8953311756856303
+    ],
+    "velocity": [
+      -0.6545925271839015,
+      -0.8623089331898862
+    ],
+    "num_lidar_pts": 5,
+    "visibility": "3"
+  },
+  {
+    "token": "6fb8c36a41c8445dad7a1054d07c1d0e",
+    "instance_token": "cf04a584e9d54f44a9000e98cda623de",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      387.117,
+      1112.173,
+      1.157
+    ],
+    "size": [
+      0.694,
+      0.902,
+      1.807
+    ],
+    "rotation": [
+      -0.5488112803587483,
+      0.0,
+      0.0,
+      0.8359462773115216
+    ],
+    "velocity": [
+      -0.5697908751906949,
+      -1.0261952718735181
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "2"
+  },
+  {
+    "token": "c276fa7a2b4645289bcc5551894b2f30",
+    "instance_token": "da622cff51e24d318855473f432f63bc",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      376.751,
+      1148.211,
+      0.883
+    ],
+    "size": [
+      0.751,
+      0.807,
+      1.706
+    ],
+    "rotation": [
+      -0.5211585966205955,
+      0.0,
+      0.0,
+      0.8534598509411274
+    ],
+    "velocity": [
+      -0.5364419109236579,
+      -1.0090443759647407
+    ],
+    "num_lidar_pts": 4,
+    "visibility": "3"
+  },
+  {
+    "token": "3491b36ac02d473093622cc5efa0100e",
+    "instance_token": "e2f67391cb914b0cbdda3995dbc397f8",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      389.029,
+      1123.666,
+      0.861
+    ],
+    "size": [
+      0.777,
+      0.958,
+      1.757
+    ],
+    "rotation": [
+      0.18853841418421022,
+      0.0,
+      0.0,
+      0.9820658157052934
+    ],
+    "velocity": [
+      0.016198068358259644,
+      0.04097158467079965
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "4"
+  },
+  {
+    "token": "345b97f7090045eb99584abd3b1e876d",
+    "instance_token": "a60047adc78a4b6895702e86b6d2fe88",
+    "category": "vehicle.truck",
+    "translation": [
+      381.247,
+      1125.461,
+      1.196
+    ],
+    "size": [
+      1.787,
+      4.535,
+      2.059
+    ],
+    "rotation": [
+      -0.4279941858797642,
+      0.0,
+      0.0,
+      0.903781487337021
+    ],
+    "velocity": [
+      -3.6893482754821574,
+      -4.19244122213867
+    ],
+    "num_lidar_pts": 12,
+    "visibility": "4"
+  },
+  {
+    "token": "a24ca59ca86d4ec6a98fce4511c2339c",
+    "instance_token": "d7e840afc77247278b0b6346c07921e5",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      414.857,
+      1192.584,
+      1.498
+    ],
+    "size": [
+      0.942,
+      1.04,
+      1.937
+    ],
+    "rotation": [
+      0.08020762286245334,
+      0.0,
+      0.0,
+      0.9967781785506515
+    ],
+    "velocity": [
+      -1.2720247798989117,
+      0.17913157949126549
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "4"
+  },
+  {
+    "token": "110a205a026e466ca3353b213ace6e5c",
+    "instance_token": "7ba3f4fee7b44e85986fe47846a67cf5",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      369.85,
+      1128.752,
+      1.041
+    ],
+    "size": [
+      0.687,
+      0.716,
+      1.73
+    ],
+    "rotation": [
+      -0.6059328642644147,
+      0.0,
+      0.0,
+      0.795515784886964
+    ],
+    "velocity": [
+      -0.015245240807796085,
+      0.019056551009704485
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "3"
+  },
+  {
+    "token": "ea8df9148066475dbadd2e6753ecc924",
+    "instance_token": "95fc384cb4994ffe9a5caf914274ab22",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      388.916,
+      1116.383,
+      1.13
+    ],
+    "size": [
+      0.728,
+      0.858,
+      2.0
+    ],
+    "rotation": [
+      -0.5455023623018027,
+      0.0,
+      0.0,
+      0.8381092844749739
+    ],
+    "velocity": [
+      -0.4411591558750813,
+      -0.962355825990943
+    ],
+    "num_lidar_pts": 3,
+    "visibility": "4"
+  },
+  {
+    "token": "f4d8475486224e14b345711ab10a29c5",
+    "instance_token": "d7f9aa76f8164fd7b043da901503ef16",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      382.534,
+      1205.091,
+      2.006
+    ],
+    "size": [
+      0.767,
+      0.872,
+      1.809
+    ],
+    "rotation": [
+      0.4272552957284011,
+      0.0,
+      0.0,
+      0.9041310260532134
+    ],
+    "velocity": [
+      -0.916620103567609,
+      1.0538272708376113
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "4"
+  },
+  {
+    "token": "c2d47b16a2d3496795b40f4950495001",
+    "instance_token": "c0c7d24d72d44267b401783e8a36b83e",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      364.847,
+      1103.525,
+      1.16
+    ],
+    "size": [
+      0.838,
+      1.03,
+      1.876
+    ],
+    "rotation": [
+      -0.6830379789403384,
+      0.0,
+      0.0,
+      0.7303828580443944
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "7d21098c2b9c4fe9a755f4004206678c",
+    "instance_token": "0e79e7bed1d543c9a00acfbf90ff60b3",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      407.602,
+      1163.151,
+      0.929
+    ],
+    "size": [
+      0.634,
+      0.618,
+      1.752
+    ],
+    "rotation": [
+      0.9910718447608294,
+      0.0,
+      0.0,
+      0.13332891105220376
+    ],
+    "velocity": [
+      0.020009378560168045,
+      -0.01143393060577936
+    ],
+    "num_lidar_pts": 31,
+    "visibility": "4"
+  },
+  {
+    "token": "22fd69a4f1534853b7e460755969bbf5",
+    "instance_token": "e900050c5fe14d77a62da9ab6107abf1",
+    "category": "movable_object.pushable_pullable",
+    "translation": [
+      407.951,
+      1163.403,
+      0.687
+    ],
+    "size": [
+      0.599,
+      0.835,
+      1.265
+    ],
+    "rotation": [
+      -0.5861531979303604,
+      0.0,
+      0.0,
+      0.8102002397901471
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 3,
+    "visibility": "4"
+  },
+  {
+    "token": "7f6bf98087c043219b13907a2654aa43",
+    "instance_token": "963c99d31d0447acb45808d3452af0e8",
+    "category": "movable_object.barrier",
+    "translation": [
+      407.962,
+      1190.975,
+      0.991
+    ],
+    "size": [
+      1.908,
+      0.579,
+      1.051
+    ],
+    "rotation": [
+      -0.9788566800328594,
+      0.0,
+      0.0,
+      0.2045473049322537
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "1"
+  },
+  {
+    "token": "ee68e60095184b8dac66a315d12532dc",
+    "instance_token": "b77d6bc70844489da846d3a938a48e80",
+    "category": "movable_object.barrier",
+    "translation": [
+      390.829,
+      1151.462,
+      0.612
+    ],
+    "size": [
+      2.042,
+      0.714,
+      1.073
+    ],
+    "rotation": [
+      -0.9818016092056508,
+      0.0,
+      0.0,
+      0.18990945253250172
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 14,
+    "visibility": "1"
+  },
+  {
+    "token": "f531bbd1a62d4544a5ce72bbe87cdd68",
+    "instance_token": "b17ae629cf184008be3af1564f8d3335",
+    "category": "movable_object.barrier",
+    "translation": [
+      394.741,
+      1160.871,
+      0.675
+    ],
+    "size": [
+      1.95,
+      0.72,
+      1.148
+    ],
+    "rotation": [
+      -0.9783702049344676,
+      0.0,
+      0.0,
+      0.20686164965137405
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "1"
+  },
+  {
+    "token": "1e64720c768a4c9cb87a2ef6bfbea63a",
+    "instance_token": "d28acbe033394149bc382fa2495f0ec3",
+    "category": "movable_object.trafficcone",
+    "translation": [
+      390.593,
+      1112.966,
+      0.519
+    ],
+    "size": [
+      0.433,
+      0.438,
+      0.761
+    ],
+    "rotation": [
+      0.2802730189144694,
+      0.0,
+      0.0,
+      0.9599203273546036
+    ],
+    "velocity": [
+      0.026035307127653968,
+      -0.016021727462821392
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "4"
+  },
+  {
+    "token": "c3380e6dd6bf45389b2c4294a605b711",
+    "instance_token": "3d03622178a2438fa9ed419f2e209ec0",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      412.907,
+      1192.6,
+      1.351
+    ],
+    "size": [
+      0.971,
+      0.937,
+      1.568
+    ],
+    "rotation": [
+      0.04537170579028954,
+      0.0,
+      0.0,
+      0.9989701738859271
+    ],
+    "velocity": [
+      -1.1853174728046698,
+      0.002858482651607326
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "4"
+  },
+  {
+    "token": "aa7eca678ecb44bc91614e423870a90b",
+    "instance_token": "28a722d057f24c1989f539d7d4f32fca",
+    "category": "movable_object.barrier",
+    "translation": [
+      397.389,
+      1164.192,
+      0.79
+    ],
+    "size": [
+      2.037,
+      0.731,
+      1.1
+    ],
+    "rotation": [
+      -0.9767658813209753,
+      0.0,
+      0.0,
+      0.21430915306458184
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 73,
+    "visibility": "4"
+  },
+  {
+    "token": "5e5e0db2bcf642d680865d7c88a62f76",
+    "instance_token": "c1958768d48640948f6053d04cffd35b",
+    "category": "vehicle.car",
+    "translation": [
+      396.575,
+      1128.037,
+      0.788
+    ],
+    "size": [
+      1.907,
+      4.727,
+      1.957
+    ],
+    "rotation": [
+      -0.6975591396654774,
+      0.0,
+      0.0,
+      0.7165272127903859
+    ],
+    "velocity": [
+      0.07717903158938982,
+      -3.858951579468841
+    ],
+    "num_lidar_pts": 29,
+    "visibility": "4"
+  },
+  {
+    "token": "bb02978478da41a98d6a39674f8bb832",
+    "instance_token": "4005437c730645c2b628dc1da999e06a",
+    "category": "vehicle.car",
+    "translation": [
+      367.488,
+      1083.098,
+      0.828
+    ],
+    "size": [
+      2.084,
+      4.712,
+      1.749
+    ],
+    "rotation": [
+      -0.532551321933778,
+      0.0,
+      0.0,
+      0.8463977135523143
+    ],
+    "velocity": [
+      -3.7951121335861036,
+      -8.220996105593924
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "2"
+  },
+  {
+    "token": "0211c434edad453ab00649d5a4c6aa86",
+    "instance_token": "1056bca4aedb40a2b2451c5356f014c9",
+    "category": "movable_object.trafficcone",
+    "translation": [
+      391.097,
+      1149.746,
+      0.564
+    ],
+    "size": [
+      0.485,
+      0.474,
+      0.784
+    ],
+    "rotation": [
+      0.9804467245981199,
+      0.0,
+      0.0,
+      -0.19678470526140626
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 5,
+    "visibility": "4"
+  },
+  {
+    "token": "258ef99a1b1646bc9e5b3adfab9ee67c",
+    "instance_token": "91b65783daac459aa0bc1abb4887afe7",
+    "category": "movable_object.barrier",
+    "translation": [
+      396.535,
+      1162.355,
+      0.763
+    ],
+    "size": [
+      2.034,
+      0.683,
+      1.127
+    ],
+    "rotation": [
+      -0.9752902928271306,
+      0.0,
+      0.0,
+      0.22092723851342966
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 106,
+    "visibility": "4"
+  },
+  {
+    "token": "2971ee66598e40498691dc339f55a8cf",
+    "instance_token": "0f74df020bba4f88a1a3276bb3781772",
+    "category": "movable_object.barrier",
+    "translation": [
+      397.849,
+      1168.476,
+      0.763
+    ],
+    "size": [
+      1.73,
+      0.702,
+      1.089
+    ],
+    "rotation": [
+      -0.978516182386297,
+      0.0,
+      0.0,
+      0.2061700288794352
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "5df0400777404390987b87f687bf6c7a",
+    "instance_token": "808a988e37a64f3c9d7961826acd1e7e",
+    "category": "movable_object.barrier",
+    "translation": [
+      393.296,
+      1155.011,
+      0.685
+    ],
+    "size": [
+      1.908,
+      0.721,
+      1.106
+    ],
+    "rotation": [
+      -0.9799525320835683,
+      0.0,
+      0.0,
+      0.19923110917475526
+    ],
+    "velocity": [
+      0.0,
+      0.0009528275504635594
+    ],
+    "num_lidar_pts": 196,
+    "visibility": "4"
+  },
+  {
+    "token": "eeeed79793b84a628bb47e7a6c89518b",
+    "instance_token": "84799f3c32664fa9a10814c38d78a035",
+    "category": "movable_object.barrier",
+    "translation": [
+      393.085,
+      1157.001,
+      0.671
+    ],
+    "size": [
+      2.008,
+      0.688,
+      1.133
+    ],
+    "rotation": [
+      -0.9818314279994164,
+      0.0,
+      0.0,
+      0.18975522915753032
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "ae9d54c477704cca96b4a7d685f40b1f",
+    "instance_token": "a3d0b60656064b6397942ee9c81d47a2",
+    "category": "movable_object.barrier",
+    "translation": [
+      394.793,
+      1113.134,
+      0.641
+    ],
+    "size": [
+      2.025,
+      0.693,
+      1.046
+    ],
+    "rotation": [
+      0.8406658625954071,
+      0.0,
+      0.0,
+      0.541554159310701
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 1,
+    "visibility": "1"
+  },
+  {
+    "token": "5876ef19c3fd41c3a2768f1597d22ffa",
+    "instance_token": "4b77b9d062f547a5a3cfe21ac661ea9a",
+    "category": "vehicle.truck",
+    "translation": [
+      401.232,
+      1096.606,
+      2.299
+    ],
+    "size": [
+      2.853,
+      10.107,
+      3.608
+    ],
+    "rotation": [
+      0.19352378310284724,
+      0.0,
+      0.0,
+      0.9810955842187662
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 16,
+    "visibility": "3"
+  },
+  {
+    "token": "a7507ae36ad0440e857f27d6024f631d",
+    "instance_token": "a017fe4e9c3d445784aae034b1322006",
+    "category": "vehicle.car",
+    "translation": [
+      343.369,
+      1129.294,
+      1.074
+    ],
+    "size": [
+      2.018,
+      5.582,
+      2.132
+    ],
+    "rotation": [
+      0.9831737046294651,
+      0.0,
+      0.0,
+      -0.18267311385415563
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "3"
+  },
+  {
+    "token": "7d4155a65b0b47b3a0a4dfa1c1c74f1e",
+    "instance_token": "7f0a02fbc45b452994b0740a9bcdbe30",
+    "category": "movable_object.barrier",
+    "translation": [
+      365.488,
+      1102.714,
+      0.604
+    ],
+    "size": [
+      2.285,
+      0.561,
+      1.092
+    ],
+    "rotation": [
+      0.042084908638477705,
+      0.0,
+      0.0,
+      0.9991140377679072
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "78e28a71f95b44c9a216f84d5b054435",
+    "instance_token": "5ae085634a294735ada287659b488378",
+    "category": "movable_object.barrier",
+    "translation": [
+      399.771,
+      1169.795,
+      0.852
+    ],
+    "size": [
+      1.99,
+      0.651,
+      1.107
+    ],
+    "rotation": [
+      -0.9837693673542263,
+      0.0,
+      0.0,
+      0.1794375430490104
+    ],
+    "velocity": [
+      -0.0038113102019625617,
+      -0.0076226204039251235
+    ],
+    "num_lidar_pts": 17,
+    "visibility": "4"
+  },
+  {
+    "token": "57950ad36e6040a78c19cc12ec0a6bea",
+    "instance_token": "a0049f95375044b8987fbcca8fda1e2b",
+    "category": "vehicle.car",
+    "translation": [
+      393.035,
+      1100.337,
+      1.214
+    ],
+    "size": [
+      1.706,
+      4.272,
+      1.65
+    ],
+    "rotation": [
+      0.2020779797531598,
+      0.0,
+      0.0,
+      0.9793694349421375
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "9422e5e4698e48df8193d75e1698397a",
+    "instance_token": "61dd7d03d7ad466d89f901ed64e2c0dd",
+    "category": "vehicle.car",
+    "translation": [
+      401.299,
+      1100.448,
+      1.276
+    ],
+    "size": [
+      1.745,
+      4.663,
+      1.482
+    ],
+    "rotation": [
+      0.2020779797531598,
+      0.0,
+      0.0,
+      0.9793694349421375
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 3,
+    "visibility": "3"
+  },
+  {
+    "token": "d41a479c410c4079ae7c08debcfc226a",
+    "instance_token": "e59d97d4403a48b88fbb6a58fc9959e6",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      387.283,
+      1107.772,
+      1.239
+    ],
+    "size": [
+      0.749,
+      0.936,
+      1.856
+    ],
+    "rotation": [
+      0.8078510353497874,
+      0.0,
+      0.0,
+      0.5893867191278376
+    ],
+    "velocity": [
+      0.4163856395623788,
+      1.164355266693984
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "3"
+  },
+  {
+    "token": "f30ffd855d9b40a0b4c1b81ed6983cbf",
+    "instance_token": "4e5e612885cd4b4289126c391d894d28",
+    "category": "movable_object.barrier",
+    "translation": [
+      398.469,
+      1111.641,
+      0.67
+    ],
+    "size": [
+      1.981,
+      0.675,
+      1.078
+    ],
+    "rotation": [
+      0.8402733881293034,
+      0.0,
+      0.0,
+      0.54216292127155
+    ],
+    "velocity": [
+      0.026679171413629608,
+      -0.019056551009704485
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "4"
+  },
+  {
+    "token": "185471b69a1945ab897e8eea8b7d3296",
+    "instance_token": "61f996df55ba4365a8053290c9feffcc",
+    "category": "movable_object.barrier",
+    "translation": [
+      395.573,
+      1162.752,
+      0.723
+    ],
+    "size": [
+      2.088,
+      0.719,
+      1.13
+    ],
+    "rotation": [
+      -0.9766797734126957,
+      0.0,
+      0.0,
+      0.214701234757803
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "5a07412dffbe4f498d061603a717fb4a",
+    "instance_token": "2821600496bf4ea78be75ffa2bf3f210",
+    "category": "movable_object.trafficcone",
+    "translation": [
+      389.356,
+      1112.334,
+      0.529
+    ],
+    "size": [
+      0.382,
+      0.444,
+      0.803
+    ],
+    "rotation": [
+      0.2415323744555482,
+      0.0,
+      0.0,
+      0.9703927617670408
+    ],
+    "velocity": [
+      -0.019056551009704485,
+      0.009528275504852243
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "3"
+  },
+  {
+    "token": "53f1f571f5124f87bcc8523c1858f121",
+    "instance_token": "be001ed5da3e4eacadd3784ff00d9b3d",
+    "category": "movable_object.trafficcone",
+    "translation": [
+      389.6,
+      1148.567,
+      0.531
+    ],
+    "size": [
+      0.379,
+      0.356,
+      0.803
+    ],
+    "rotation": [
+      0.9841492135622026,
+      0.0,
+      0.0,
+      -0.1773423960729582
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 2,
+    "visibility": "1"
+  },
+  {
+    "token": "574e073fdfb34bda812ee909b9ec55cc",
+    "instance_token": "daa2c79186574e7e9afbb180c73daa1f",
+    "category": "movable_object.barrier",
+    "translation": [
+      362.423,
+      1105.191,
+      0.617
+    ],
+    "size": [
+      2.404,
+      0.721,
+      1.341
+    ],
+    "rotation": [
+      -0.6846616035803111,
+      0.0,
+      0.0,
+      0.7288610900458584
+    ],
+    "velocity": [
+      0.0,
+      0.0
+    ],
+    "num_lidar_pts": 3,
+    "visibility": "3"
+  },
+  {
+    "token": "bf55e1f26d934685842538a150e61314",
+    "instance_token": "e3b29de7fe024c31b1e139a431c3c508",
+    "category": "human.pedestrian.adult",
+    "translation": [
+      348.182,
+      1145.251,
+      0.823
+    ],
+    "size": [
+      0.973,
+      0.983,
+      1.811
+    ],
+    "rotation": [
+      0.1940172223735802,
+      0.0,
+      0.0,
+      0.9809981230473587
+    ],
+    "velocity": [
+      -1.080506442251241,
+      0.48594205074789765
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  },
+  {
+    "token": "187a722b4fc14565ad8770195f94f880",
+    "instance_token": "d76647cebfc04503905d477d62edbb7c",
+    "category": "movable_object.trafficcone",
+    "translation": [
+      363.513,
+      1126.194,
+      0.612
+    ],
+    "size": [
+      0.422,
+      0.407,
+      0.764
+    ],
+    "rotation": [
+      0.9784062941939174,
+      0.0,
+      0.0,
+      -0.20669088872450422
+    ],
+    "velocity": [
+      -0.006008147798671863,
+      -0.016021727463276757
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "2"
+  },
+  {
+    "token": "4282c38f75bd43c7a5c29c3ebadeadd4",
+    "instance_token": "f8fe56a047cd40adb42c7d67d26af28d",
+    "category": "movable_object.barrier",
+    "translation": [
+      400.317,
+      1110.824,
+      0.68
+    ],
+    "size": [
+      1.974,
+      0.626,
+      1.054
+    ],
+    "rotation": [
+      0.8402733881293034,
+      0.0,
+      0.0,
+      0.54216292127155
+    ],
+    "velocity": [
+      -0.015245240807741924,
+      -0.010481103055315803
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "3"
+  },
+  {
+    "token": "a22c7ec854d84b5c8ef12e880492572e",
+    "instance_token": "6f6da3251c4c4398b45e47aeb030682b",
+    "category": "movable_object.barrier",
+    "translation": [
+      396.559,
+      1112.411,
+      0.612
+    ],
+    "size": [
+      2.086,
+      0.677,
+      1.091
+    ],
+    "rotation": [
+      0.827835212994098,
+      0.0,
+      0.0,
+      0.5609713541055518
+    ],
+    "velocity": [
+      0.019056551009704485,
+      -0.0076226204039251235
+    ],
+    "num_lidar_pts": 7,
+    "visibility": "4"
+  },
+  {
+    "token": "9c1ed86461064ef5a8b70b332805cfed",
+    "instance_token": "86ed8530809d4b1b8fbc53808f599339",
+    "category": "vehicle.car",
+    "translation": [
+      359.997,
+      1122.415,
+      0.99
+    ],
+    "size": [
+      1.875,
+      4.363,
+      1.441
+    ],
+    "rotation": [
+      0.9820575882257031,
+      0.0,
+      0.0,
+      -0.1885812647330467
+    ],
+    "velocity": [
+      0.002858482651499002,
+      -0.0009528275504635594
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "3"
+  },
+  {
+    "token": "aaf3d58190e64de2818f3f669cb4a226",
+    "instance_token": "36f5c9f6981d4fbf8362a73577bbdcfe",
+    "category": "movable_object.barrier",
+    "translation": [
+      392.824,
+      1113.711,
+      0.609
+    ],
+    "size": [
+      2.056,
+      0.613,
+      1.181
+    ],
+    "rotation": [
+      0.7241658433440525,
+      0.0,
+      0.0,
+      0.689625863301107
+    ],
+    "velocity": [
+      0.020009378560168045,
+      -0.0009528275504635594
+    ],
+    "num_lidar_pts": 0,
+    "visibility": "1"
+  }
+]

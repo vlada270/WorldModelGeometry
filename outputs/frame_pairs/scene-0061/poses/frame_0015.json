@@ -1,0 +1,31 @@
+{
+  "scene_name": "scene-0061",
+  "frame_idx": 15,
+  "camera_name": "CAM_FRONT",
+  "sample_token": "cd21dbfc3bd749c7b10a5c42562e0c42",
+  "sample_data_token": "e0bc3ff06fe348fdb56039c640be0ac3",
+  "image_filename": "data/v1.0-mini/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402935162463.jpg",
+  "timestamp": 1532402935162463,
+  "ego_translation": [
+    396.289693205673,
+    1130.2346136078652,
+    0.0
+  ],
+  "ego_rotation": [
+    0.7014657530110366,
+    -0.011371008429598104,
+    0.014357933473791898,
+    -0.7124677868271068
+  ],
+  "camera_translation": [
+    1.70079118954,
+    0.0159456324149,
+    1.51095763913
+  ],
+  "camera_rotation": [
+    0.4998015430569128,
+    -0.5030316162024876,
+    0.4997798114386805,
+    -0.49737083824542755
+  ]
+}
